@@ -1,18 +1,6 @@
 
 # Hello there! 👋
-<style>
-    body {
-      background: linear-gradient(to right, #4b6cb7, #182848);
-      color: white; /* Set text color to white for better visibility */
-    }
-    /* Additional CSS styles for alignment and spacing */
-    p {
-      margin-bottom: 20px;
-    }
-    img {
-      margin: 10px;
-    }
-  </style>
+
 
 ### Bio:
 
