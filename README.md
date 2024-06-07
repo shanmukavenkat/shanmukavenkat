@@ -16,6 +16,7 @@ S.N.V.S.KOMAL is a talented software engineer with a strong passion for Java, Py
 ### <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Figma"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Python"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Frontend"/>
 <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Reactjs"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/javascript"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/git"/>
 <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Html"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Css"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Python"/>
+<img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/AdobeXd"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Nodejs"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/ExpressJs"/>
 
 
 
