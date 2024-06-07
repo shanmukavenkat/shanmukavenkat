@@ -54,3 +54,11 @@ S.N.V.S.KOMAL is a talented software engineer with a strong passion for Java, Py
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=SNVSKOMAL&label=Full%20stack%20Developer%20%2F&color=1&icon=6&pretty=false" />
 </a>
+
+
+***********************
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanmukavenkat&show_icons=true&locale=en&layout=compact" alt="shanmukavenkat" style="background: linear-gradient(to right, #4b6cb7, #182848);"></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanmukavenkat&show_icons=true&locale=en" alt="shanmukavenkat" style="background: linear-gradient(to right, #4b6cb7, #182848);"></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanmukavenkat" alt="shanmukavenkat" style="background: linear-gradient(to right, #4b6cb7, #182848);"></p>
