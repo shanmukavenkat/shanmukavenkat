@@ -59,3 +59,7 @@ I'm currently working on  data analytics<br>I'm looking to collaborate on Full s
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![](https://visitcount.itsvg.in/api?id=shanmukavenkat&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=shanmukavenkat&theme=black-blue)
