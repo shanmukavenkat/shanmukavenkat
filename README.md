@@ -62,4 +62,4 @@ I'm currently working on  data analytics<br>I'm looking to collaborate on Full s
 
 
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=shanmukavenkat&theme=black-blue)
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=shanmukavenkat&theme=xcode)
