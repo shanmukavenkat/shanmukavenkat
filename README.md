@@ -17,6 +17,10 @@ S.N.V.S.KOMAL is a talented software engineer with a strong passion for Java, Py
 
 
 ### 
+[Visit my Metrics Insights](https://metrics.lecoq.io/insights/shanmukavenkat)
+
+
+
 
 ### Links:
 
@@ -53,7 +57,7 @@ I'm currently working on  data analytics<br>I'm looking to collaborate on Full s
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shanmukavenkat&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
-![](https://metrics.lecoq.io/insights/shanmukavenkat)
+
 
 
 ### 🔝 Top Contributed Repo
