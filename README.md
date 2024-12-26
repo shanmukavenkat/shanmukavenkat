@@ -17,7 +17,8 @@ S.N.V.S.KOMAL is a talented software engineer with a strong passion for Java, Py
 
 
 ### 
-[Visit my Metrics Insights](https://metrics.lecoq.io/insights/shanmukavenkat)
+![Metrics Insights](https://metrics.lecoq.io/insights/shanmukavenkat/image.png)
+
 
 
 
