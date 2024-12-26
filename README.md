@@ -53,6 +53,9 @@ I'm currently working on  data analytics<br>I'm looking to collaborate on Full s
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shanmukavenkat&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
+![](https://metrics.lecoq.io/insights/shanmukavenkat)
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shanmukavenkat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
