@@ -5,7 +5,7 @@
 
 ### Bio:
 
-S.N.V.S.KOMAL is a talented software engineer with a strong passion for Java, Python, Frontend, and Backend development.
+S.N.V.S.KOMAL is a talented software engineer with a strong passion for  Python, Frontend, and Backend development.
             
 
 ### Streetcred:
