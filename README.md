@@ -20,6 +20,12 @@ S.N.V.S.KOMAL is a talented software engineer with a strong passion for  Python,
 
 
 
+##
+In your terminal:
+```bash
+npm i snvskomal
+npx snvskomal
+```
 
 
 ### Links:
