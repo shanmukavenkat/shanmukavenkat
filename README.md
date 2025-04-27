@@ -13,25 +13,20 @@
     </td>
     <td>
 
-<div align="left">
+<div align="left" style="display: flex; align-items: center; gap: 10px;">
 
-### Streetcred:  
 <a href="https://www.tublian.com/profile/shanmukavenkat?ss=true">
   <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/shanmukavenkat?type=without_score" alt="Streetcred Badge" height="100px"/>
 </a>
 
-<br><br>
-
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="GitHub Octocat" height="120px"/>
+<a href="#">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="GitHub Octocat" height="100px"/>
+</a>
 
 </div>
-
 </td>
   </tr>
 </table>
-
-
-
 
 
 <h2 align="left">🌐 About Me</h2>
