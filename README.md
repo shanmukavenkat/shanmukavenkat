@@ -17,11 +17,11 @@
 <div style="display: flex; justify-content: space-around; align-items: center;">
 
 <a href="https://www.tublian.com/profile/shanmukavenkat?ss=true">
-  <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/shanmukavenkat?type=without_score" alt="Streetcred Badge" height="100px"/>
+  <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/shanmukavenkat?type=without_score" alt="Streetcred Badge" height="190px"/>
 </a>
 
 <a href="#">
-  <img src="https://octodex.github.com/images/Fintechtocat.png" alt="GitHub Octocat" height="100px"/>
+  <img src="https://octodex.github.com/images/Fintechtocat.png" alt="GitHub Octocat" height="190px"/>
 </a>
 
 </div>
