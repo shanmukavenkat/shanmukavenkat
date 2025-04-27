@@ -1,5 +1,5 @@
 
-# Hello there! 👋
+# Hello there! 👋 
 <table>
   <tr>
     <td>
@@ -12,6 +12,7 @@
 
     </td>
     <td>
+[![GitHub Views](https://komarev.com/ghpvc/?shanmukavenkat=natterstefan&color=FAC151)][1]
 
 <div align="left">
 <div style="display: flex; justify-content: space-around; align-items: center; ">
