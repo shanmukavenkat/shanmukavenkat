@@ -65,6 +65,7 @@ npx snvskomal
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-%2300E599.svg?style=for-the-badge&logo=neon&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
