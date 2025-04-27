@@ -5,7 +5,7 @@
 
 Hi, I'm SNVS Komal — a passionate full-stack developer with a love for crafting beautiful, functional websites and exploring the latest in tech innovation. I enjoy building AI tools that make life easier for developers and creators. Beyond coding, I'm all about building strong communities, sharing knowledge, and collaborating to turn great ideas into reality. If you're excited about tech, design, or AI, let's connect and create something incredible together!
 [![npm](https://img.shields.io/npm/v/snvskomal)](https://www.npmjs.com/package/snvskomal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-snvskomal.netlify.app-blue)](https://snvskomal.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-ff69b4?style=for-the-badge&logo=react&logoColor=white)](https://snvskomal.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amudalapalli-s-5b3150223/) 
 ##
  Think of it as a digital business card — accessible with just one command In your terminal:
