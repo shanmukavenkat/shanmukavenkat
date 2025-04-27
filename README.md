@@ -1,11 +1,19 @@
 
 # Hello there! 👋
 
+<h2 align="left">🌐 About Me</h2>
 
-### Bio:
+Hi, I'm SNVS Komal — a passionate full-stack developer with a love for crafting beautiful, functional websites and exploring the latest in tech innovation. I enjoy building AI tools that make life easier for developers and creators. Beyond coding, I'm all about building strong communities, sharing knowledge, and collaborating to turn great ideas into reality. If you're excited about tech, design, or AI, let's connect and create something incredible together!
 
-I’m a MERN Developer passionate about UI/UX design, Data Science, and Power BI, crafting smart and seamless experiences 🚀
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amudalapalli-s-5b3150223/) 
+
+##
+ Think of it as a digital business card — accessible with just one command In your terminal:
+```bash
+npm i snvskomal
+npx snvskomal
+```
+
 
 <table>
   <tr>
@@ -34,12 +42,7 @@ I’m a MERN Developer passionate about UI/UX design, Data Science, and Power BI
 
 
 
-##
-In your terminal:
-```bash
-npm i snvskomal
-npx snvskomal
-```
+
 
 
 
