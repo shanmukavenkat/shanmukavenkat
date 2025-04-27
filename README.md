@@ -28,8 +28,7 @@ I’m a MERN Developer passionate about UI/UX design, Data Science, and Power BI
 </a>
 
 </div>
-
-    </td>
+</td>
   </tr>
 </table>
 
