@@ -12,14 +12,6 @@ S.N.V.S.KOMAL is a talented software engineer with a strong passion for  Python,
 <a href="https://www.tublian.com/profile/shanmukavenkat?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/shanmukavenkat?type=without_score"></a>
 
 
-
-
-
-### 
-![Metrics Insights](https://metrics.lecoq.io/insights/shanmukavenkat/image.png)
-
-
-
 ##
 In your terminal:
 ```bash
@@ -56,9 +48,12 @@ npx snvskomal
 I'm currently working on  data analytics<br>I'm looking to collaborate on Full stack developer<br>I'm looking for help with backend<br>I'm currently learning data analytics<br>Once I commit to it, I carry it out
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shanmukavenkat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shanmukavenkat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukavenkat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shanmukavenkat&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmukavenkat&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukavenkat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shanmukavenkat&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
