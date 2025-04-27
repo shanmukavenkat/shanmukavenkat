@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  ![](./profile-3d-contrib/profile-green-animate.svg)
+ <img src="profile-3d-contrib/profile-night-view.svg" />
 </p>
