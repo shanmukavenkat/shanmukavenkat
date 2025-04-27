@@ -1,6 +1,5 @@
 
 # Hello there! 👋
-
 <table>
   <tr>
     <td>
@@ -21,7 +20,12 @@
   <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/shanmukavenkat?type=without_score" alt="Streetcred Badge" height="100px"/>
 </a>
 
+<br><br>
+
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="GitHub Octocat" height="120px"/>
+
 </div>
+
 </td>
   </tr>
 </table>
@@ -33,9 +37,11 @@
 <h2 align="left">🌐 About Me</h2>
 
 Hi, I'm SNVS Komal — a passionate full-stack developer with a love for crafting beautiful, functional websites and exploring the latest in tech innovation. I enjoy building AI tools that make life easier for developers and creators. Beyond coding, I'm all about building strong communities, sharing knowledge, and collaborating to turn great ideas into reality. If you're excited about tech, design, or AI, let's connect and create something incredible together!
+
 [![npm](https://img.shields.io/npm/v/snvskomal)](https://www.npmjs.com/package/snvskomal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-snvskomal.netlify.app-8A2BE2?style=flat&logo=netlify&logoColor=white)](https://snvskomal.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amudalapalli-s-5b3150223/) 
+
 ##
  Think of it as a digital business card — accessible with just one command In your terminal:
 ```bash
@@ -43,13 +49,6 @@ npm i snvskomal
 npx snvskomal
 ```
 
-
-
-
-
-
-
-### <a href="https://www.github.com/shanmukavenkat">github</a>
 
 <h2 align="left">🛠️ Languages and Tools</h2>
 
