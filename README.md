@@ -39,8 +39,9 @@ Hi, I'm SNVS Komal — a passionate full-stack developer with a love for craftin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amudalapalli-s-5b3150223/) 
 
 ##
- Think of it as a digital business card — accessible with just one command In your terminal:
-```bash
+[ Think of it as a digital business card — accessible with just two commands In your terminal:
+](https://img.shields.io/badge/Think%20of%20it%20as%20a%20digital%20business%20card%20—%20accessible%20with%20just%20two%20commands%20In%20your%20terminal-grey
+)```bash
 npm i snvskomal
 npx snvskomal
 ```
