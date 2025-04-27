@@ -21,7 +21,7 @@
 </a>
 
 <a href="#">
-  <img src="https://octodex.github.com/fintechtocat/" alt="GitHub Octocat" height="100px"/>
+  <img src="https://octodex.github.com/images/Fintechtocat.png" alt="GitHub Octocat" height="100px"/>
 </a>
 
 </div>
