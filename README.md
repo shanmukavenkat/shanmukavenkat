@@ -5,17 +5,19 @@
 ### Bio:
 
 I’m a MERN Developer passionate about UI/UX design, Data Science, and Power BI, crafting smart and seamless experiences 🚀
-
 ## 🚀 About Me
+
 - 🔭 I'm currently working on **Data Analytics**
 - 🤝 I'm looking to collaborate on **Full Stack Development**
 - 🛠️ I'm looking for help with **Backend Development**
 - 📚 I'm currently learning **Data Analytics**
 - 🎯 Once I commit to something, I **carry it out with full dedication**
 
-### Streetcred:
+<div align="left">
 
-<a href="https://www.tublian.com/profile/shanmukavenkat?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/shanmukavenkat?type=without_score"></a>
+### Streetcred: &nbsp; <a href="https://www.tublian.com/profile/shanmukavenkat?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/shanmukavenkat?type=without_score" alt="Streetcred Badge" height="28px"/></a>
+
+</div>
 
 
 ##
