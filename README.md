@@ -12,7 +12,6 @@
 
     </td>
     <td>
-[![GitHub Views](https://komarev.com/ghpvc/?shanmukavenkat=natterstefan&color=FAC151)][1]
 
 <div align="left">
 <div style="display: flex; justify-content: space-around; align-items: center; ">
@@ -30,6 +29,8 @@
   </td>
   </tr>
 </table>
+![GitHub Views](https://komarev.com/ghpvc/?username=shanmukavenkat)
+
 
 <h2 align="left">🌐 About Me</h2>
 
