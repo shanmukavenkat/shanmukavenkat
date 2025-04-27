@@ -14,14 +14,14 @@
     <td>
 
 <div align="left">
-<div style="display: flex; justify-content: space-around; align-items: center; background: transparent;">
+<div style="display: flex; justify-content: space-around; align-items: center; ">
 
 <a href="https://www.tublian.com/profile/shanmukavenkat?ss=true">
   <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/shanmukavenkat?type=without_score" alt="Streetcred Badge" height="150px"/>
 </a>
 
-<a href="#">
-  <img src="https://octodex.github.com/images/class-act.png" alt="GitHub Catstello" height="150px"/>
+<a href="https://github.com/shanmukavenkat">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="GitHub Catstello" height="150px"/>
 </a>
 
 </div>
