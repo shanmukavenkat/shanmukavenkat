@@ -5,8 +5,8 @@
 
 Hi, I'm SNVS Komal — a passionate full-stack developer with a love for crafting beautiful, functional websites and exploring the latest in tech innovation. I enjoy building AI tools that make life easier for developers and creators. Beyond coding, I'm all about building strong communities, sharing knowledge, and collaborating to turn great ideas into reality. If you're excited about tech, design, or AI, let's connect and create something incredible together!
 
+🔗 [Portfolio Website](https://snvskomal.netlify.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amudalapalli-s-5b3150223/) 
-
 ##
  Think of it as a digital business card — accessible with just one command In your terminal:
 ```bash
@@ -32,7 +32,7 @@ npx snvskomal
 
 ### Streetcred:  
 <a href="https://www.tublian.com/profile/shanmukavenkat?ss=true">
-  <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/shanmukavenkat?type=without_score" alt="Streetcred Badge" height="400px"/>
+  <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/shanmukavenkat?type=without_score" alt="Streetcred Badge" height="100px"/>
 </a>
 
 </div>
