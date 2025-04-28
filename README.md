@@ -29,7 +29,7 @@
   </td>
   </tr>
 </table>
-![GitHub Views](https://komarev.com/ghpvc/?username=<shanmukavenkat>)
+![Profile Views](https://komarev.com/ghpvc/?username=shanmukavenkat&color=blue) 
 
 
 <h2 align="left">🌐 About Me</h2>
