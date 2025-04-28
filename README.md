@@ -29,7 +29,6 @@
   </td>
   </tr>
 </table>
-![Profile Views](https://komarev.com/ghpvc/?username=shanmukavenkat&color=blue) 
 
 
 <h2 align="left">🌐 About Me</h2>
@@ -38,6 +37,7 @@ Hi, I'm SNVS Komal — a passionate full-stack developer with a love for craftin
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-snvskomal.netlify.app-8A2BE2?style=flat&logo=netlify&logoColor=white)](https://snvskomal.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amudalapalli-s-5b3150223/) 
+![Profile Views](https://komarev.com/ghpvc/?username=shanmukavenkat&color=blue) 
 
 ##
  [![npm](https://img.shields.io/npm/v/snvskomal)](https://www.npmjs.com/package/snvskomal) Think of it as a digital business card — accessible with just two commands In your terminal:
