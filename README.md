@@ -80,12 +80,28 @@ npx snvskomal
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-# 📊 GitHub Stats:
+<h2 align="center">📊 GitHub Stats</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=shanmukavenkat&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmukavenkat&theme=dark&hide_border=false" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukavenkat&theme=dark&hide_border=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">🔝 Top Contributed Repos</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanmukavenkat&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmukavenkat&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukavenkat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=shanmukavenkat&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -95,8 +111,6 @@ npx snvskomal
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shanmukavenkat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
