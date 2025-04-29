@@ -79,27 +79,22 @@ npx snvskomal
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+<h2 align="center">📊 My GitHub Dashboard</h2>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<table align="center">
+<table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=shanmukavenkat&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanmukavenkat&theme=github_dark" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmukavenkat&theme=dark&hide_border=false" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=shanmukavenkat&theme=dark&hide_border=false" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukavenkat&theme=dark&hide_border=false&layout=compact" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukavenkat&theme=dark&layout=compact&hide_border=false" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+    <td width="50%" align="center">
       <img src="https://github-contributor-stats.vercel.app/api?username=shanmukavenkat&limit=5&theme=dark&combine_all_yearly_contributions=true" />
     </td>
   </tr>
