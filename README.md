@@ -82,6 +82,8 @@ npx snvskomal
 
 <h2 align="center">📊 GitHub Stats</h2>
 
+<h2 align="center">📊 GitHub Stats</h2>
+
 <table align="center">
   <tr>
     <td align="center">
@@ -96,13 +98,13 @@ npx snvskomal
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukavenkat&theme=dark&hide_border=false&layout=compact" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-contributor-stats.vercel.app/api?username=shanmukavenkat&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+    </td>
+  </tr>
 </table>
 
-<h3 align="center">🔝 Top Contributed Repos</h3>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=shanmukavenkat&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shanmukavenkat&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
