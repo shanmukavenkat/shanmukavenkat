@@ -91,7 +91,7 @@ npx snvskomal
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="80%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukavenkat&theme=dark&layout=compact&hide_border=false" />
     </td>
     <td width="50%" align="center">
