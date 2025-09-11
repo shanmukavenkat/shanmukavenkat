@@ -6,7 +6,6 @@
 
 
 - 🔭 I'm currently working on **Data Analytics** as an **Assistance Intern at ONGC (Operational Maintenance Department)**<br>
-- - 🔭 I'm currently working on **Data Analytics**<br>
 - 🤝 I'm looking to collaborate on **Full Stack Development**<br>
 - 🛠️ I'm looking for help with **Backend Development**<br>
 - 📚 I'm currently learning **Data Analytics**<br>
