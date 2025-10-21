@@ -8,7 +8,6 @@
 - 🔭 I'm currently working on **Data Analytics**<br>
 - 🤝 I'm looking to collaborate on **Full Stack Development**<br>
 - 🛠️ I'm looking for help with **Backend Development**<br>
-- 📚 I'm currently learning **Data Analytics**<br>
 - 🎯 Once I commit to something, I **carry it out with full dedication**
 
     </td>
